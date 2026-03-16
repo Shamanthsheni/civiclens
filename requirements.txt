@@ -1,0 +1,5 @@
+# Project dependencies for the Nyaya application.
+boto3
+flask
+pymupdf
+python-dotenv

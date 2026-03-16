@@ -1,0 +1,6 @@
+.env
+aws_keys.csv
+__pycache__/
+*.pyc
+.DS_Store
+uploads/
