@@ -3,3 +3,4 @@ boto3
 flask
 pymupdf
 python-dotenv
+gunicorn
